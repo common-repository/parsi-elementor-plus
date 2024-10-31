@@ -1,0 +1,150 @@
+@font-face {
+  font-family: 'eplus-icons';
+  src:  url('fonts/eplus-icons.eot?wbl6mc');
+  src:  url('fonts/eplus-icons.eot?wbl6mc#iefix') format('embedded-opentype'),
+    url('fonts/eplus-icons.ttf?wbl6mc') format('truetype'),
+    url('fonts/eplus-icons.woff?wbl6mc') format('woff'),
+    url('fonts/eplus-icons.svg?wbl6mc#eplus-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="eplus-"], [class*=" eplus-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'eplus-icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.eplus-Nimaad:before {
+  content: "\e901";
+}
+.eplus-Elementorplus:before {
+  content: "\e903";
+}
+.eplus-gap:before {
+  content: "\e902";
+}
+.eplus-bisphone:before {
+  content: "\e916";
+}
+.eplus-Enbank:before {
+  content: "\e918";
+}
+.eplus-aparat:before {
+  content: "\e919";
+}
+.eplus-cloob:before {
+  content: "\e91a";
+}
+.eplus-dey:before {
+  content: "\e91b";
+}
+.eplus-gardeshgari:before {
+  content: "\e91c";
+}
+.eplus-Hekmat:before {
+  content: "\e91d";
+}
+.eplus-iranzamin:before {
+  content: "\e91e";
+}
+.eplus-ghavamin:before {
+  content: "\e91f";
+}
+.eplus-markazi:before {
+  content: "\e920";
+}
+.eplus-mehr:before {
+  content: "\e921";
+}
+.eplus-mellat:before {
+  content: "\e922";
+}
+.eplus-melli:before {
+  content: "\e923";
+}
+.eplus-parsian:before {
+  content: "\e924";
+}
+.eplus-refah:before {
+  content: "\e925";
+}
+.eplus-saderat:before {
+  content: "\e926";
+}
+.eplus-salehin:before {
+  content: "\e927";
+}
+.eplus-saman:before {
+  content: "\e928";
+}
+.eplus-sarmayeh:before {
+  content: "\e929";
+}
+.eplus-Mahak:before {
+  content: "\e93e";
+}
+.eplus-Maskan:before {
+  content: "\e940";
+}
+.eplus-MEBank:before {
+  content: "\e941";
+}
+.eplus-Mehreghtesad:before {
+  content: "\e942";
+}
+.eplus-Mehriran:before {
+  content: "\e947";
+}
+.eplus-eitaa:before {
+  content: "\e97c";
+}
+.eplus-soroush:before {
+  content: "\e97d";
+}
+.eplus-bale:before {
+  content: "\e97e";
+}
+.eplus-tejarat:before {
+  content: "\e97f";
+}
+.eplus-Pasargad:before {
+  content: "\e99b";
+}
+.eplus-PayamNoor:before {
+  content: "\e99d";
+}
+.eplus-SanatMadan:before {
+  content: "\e9c7";
+}
+.eplus-Shahr:before {
+  content: "\e9d1";
+}
+.eplus-Shaparak:before {
+  content: "\e9d2";
+}
+.eplus-Shetab:before {
+  content: "\e9d3";
+}
+.eplus-Sina:before {
+  content: "\e9d4";
+}
+.eplus-Tosse:before {
+  content: "\ea09";
+}
+.eplus-ZarinPal:before {
+  content: "\ea12";
+}
+.eplus-Afzal-toos:before {
+  content: "\ea13";
+}

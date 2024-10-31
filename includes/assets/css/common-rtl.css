@@ -1,0 +1,6 @@
+@font-face{font-family:'Vazir-FN';src:url('font/Vazir-FN/Vazir-Bold-FD.eot');src:url('font/Vazir-FN/Vazir-Bold-FD.eot?#iefix') format('eot'),url('font/Vazir-FN/Vazir-Bold-FD.woff2') format('woff2'),url('font/Vazir-FN/Vazir-Bold-FD).woff') format('woff'),url('font/Vazir-FN/Vazir-Bold-FD.ttf') format('ttf');font-weight:700}
+@font-face{font-family:'Vazir-FN';src:url('font/Vazir-FN/Vazir-Medium-FD.eot');src:url('font/Vazir-FN/Vazir-Medium-FD.eot?#iefix') format('eot'),url('font/Vazir-FN/Vazir-Medium-FD') format('woff2'),url('font/Vazir-FN/Vazir-Medium-FD.woff') format('woff'),url('font/Vazir-FN/Vazir-Medium-FD.ttf') format('ttf');font-weight:500}
+@font-face{font-family:'Vazir-FN';src:url('font/Vazir-FN/Vazir-Light-FD.eot');src:url('font/Vazir-FN/Vazir-Light-FD.eot?#iefix') format('eot'),url('font/Vazir-FN/Vazir-Light-FD.woff2') format('woff2'),url('font/Vazir-FN/Vazir-Light-FD.woff') format('woff'),url('font/Vazir-FN/Vazir-Light-FD.ttf') format('ttf');font-weight:300}
+.elementor-templates-modal .dialog-widget-content {
+    font-family: Vazir-FN!important;
+}

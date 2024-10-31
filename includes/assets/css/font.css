@@ -1,0 +1,158 @@
+@font-face{
+	font-family:'Vazir-FN';
+	src:url('font/Vazir-FN/Vazir-Thin-FD.eot');
+	src:url('font/Vazir-FN/Vazir-Thin-FD.eot?#iefix') format('eot'),
+	url('font/Vazir-FN/Vazir-Thin-FD.woff2') format('woff2'),
+	url('font/Vazir-FN/Vazir-Thin-FD.woff') format('woff'),
+	url('font/Vazir-FN/Vazir-Thin-FD.ttf') format('ttf');font-weight:100}
+@font-face{
+	font-family:'Vazir-FN';
+	src:url('font/Vazir-FN/Vazir-Light-FD.eot');
+	src:url('font/Vazir-FN/Vazir-Light-FD.eot?#iefix') format('eot'),
+	url('font/Vazir-FN/Vazir-Light-FD.woff2') format('woff2'),
+	url('font/Vazir-FN/Vazir-Light-FD.woff') format('woff'),
+	url('font/Vazir-FN/Vazir-Light-FD.ttf') format('ttf');font-weight:200}
+@font-face{
+	font-family:'Vazir-FN';
+	src:url('font/Vazir-FN/Vazir-FD.eot');
+	src:url('font/Vazir-FN/Vazir-FD.eot?#iefix') format('eot'),
+	url('font/Vazir-FN/Vazir-FD.woff2') format('woff2'),
+	url('font/Vazir-FN/Vazir-FD.woff') format('woff'),
+	url('font/Vazir-FN/Vazir-FD.ttf') format('ttf');font-weight:300}
+@font-face{
+	font-family:'Vazir-FN';
+	src:url('font/Vazir-FN/Vazir-Medium-FD.eot');
+	src:url('font/Vazir-FN/Vazir-Medium-FD.eot?#iefix') format('eot'),
+	url('font/Vazir-FN/Vazir-Medium-FD.woff2') format('woff2'),
+	url('font/Vazir-FN/Vazir-Medium-FD.woff') format('woff'),
+	url('font/Vazir-FN/Vazir-Medium-FD.ttf') format('ttf');font-weight:400}
+@font-face{
+	font-family:'Vazir-FN';
+	src:url('font/Vazir-FN/Vazir-Bold-FD.eot');
+	src:url('font/Vazir-FN/Vazir-Bold-FD.eot?#iefix') format('eot'),
+	url('font/Vazir-FN/Vazir-Bold-FD.woff2') format('woff2'),
+	url('font/Vazir-FN/Vazir-Bold-FD.woff') format('woff'),
+	url('font/Vazir-FN/Vazir-Bold-FD.ttf') format('ttf');font-weight:500}
+@font-face{
+	font-family:'Vazir-FN';
+	src:url('font/Vazir-FN/Vazir-Black-FD.eot');
+	src:url('font/Vazir-FN/Vazir-Black-FD.eot?#iefix') format('eot'),
+	url('font/Vazir-FN/Vazir-Black-FD.woff2') format('woff2'),
+	url('font/Vazir-FN/Vazir-Black-FD.woff') format('woff'),
+	url('font/Vazir-FN/Vazir-Black-FD.ttf') format('ttf');font-weight:700}
+
+
+@font-face{
+	font-family:'Vazir';
+	src:url('font/Vazir/Vazir-Thin.eot');
+	src:url('font/Vazir/Vazir-Thin.eot?#iefix') format('eot'),
+	url('font/Vazir/Vazir-Thin.woff2') format('woff2'),
+	url('font/Vazir/Vazir-Thin.woff') format('woff'),
+	url('font/Vazir/Vazir-Thin.ttf') format('ttf');font-weight:100}
+@font-face{
+	font-family:'Vazir';
+	src:url('font/Vazir/Vazir-Light.eot');
+	src:url('font/Vazir/Vazir-Light.eot?#iefix') format('eot'),
+	url('font/Vazir/Vazir-Light.woff2') format('woff2'),
+	url('font/Vazir/Vazir-Light.woff') format('woff'),
+	url('font/Vazir/Vazir-Light.ttf') format('ttf');font-weight:200}
+@font-face{
+	font-family:'Vazir';
+	src:url('font/Vazir/Vazir.eot');
+	src:url('font/Vazir/Vazir.eot?#iefix') format('eot'),
+	url('font/Vazir/Vazir.woff2') format('woff2'),
+	url('font/Vazir/Vazir.woff') format('woff'),
+	url('font/Vazir/Vazir.ttf') format('ttf');font-weight:300}
+@font-face{
+	font-family:'Vazir';
+	src:url('font/Vazir/Vazir-Medium.eot');
+	src:url('font/Vazir/Vazir-Medium.eot?#iefix') format('eot'),
+	url('font/Vazir/Vazir-Medium.woff2') format('woff2'),
+	url('font/Vazir/Vazir-Medium.woff') format('woff'),
+	url('font/Vazir/Vazir-Medium.ttf') format('ttf');font-weight:400}
+@font-face{
+	font-family:'Vazir';
+	src:url('font/Vazir/Vazir-Bold.eot');
+	src:url('font/Vazir/Vazir-Bold.eot?#iefix') format('eot'),
+	url('font/Vazir/Vazir-Bold.woff2') format('woff2'),
+	url('font/Vazir/Vazir-Bold.woff') format('woff'),
+	url('font/Vazir/Vazir-Bold.ttf') format('ttf');font-weight:500}
+@font-face{
+	font-family:'Vazir';
+	src:url('font/Vazir/Vazir-Black.eot');
+	src:url('font/Vazir/Vazir-Black.eot?#iefix') format('eot'),
+	url('font/Vazir/Vazir-Black.woff2') format('woff2'),
+	url('font/Vazir/Vazir-Black.woff') format('woff'),
+	url('font/Vazir/Vazir-Black.ttf') format('ttf');font-weight:700}
+
+@font-face{
+	font-family:'Shabnam';
+	src:url('font/Shabnam/Shabnam-Thin.eot');
+	src:url('font/Shabnam/Shabnam-Thin.eot?#iefix') format('eot'),
+	url('font/Shabnam/Shabnam-Thin.woff2') format('woff2'),
+	url('font/Shabnam/Shabnam-Thin.woff') format('woff'),
+	url('font/Shabnam/Shabnam-Thin.ttf') format('ttf');font-weight:100}
+@font-face{
+	font-family:'Shabnam';
+	src:url('font/Shabnam/Shabnam-Light.eot');
+	src:url('font/Shabnam/Shabnam-Light.eot?#iefix') format('eot'),
+	url('font/Shabnam/Shabnam-Light.woff2') format('woff2'),
+	url('font/Shabnam/Shabnam-Light.woff') format('woff'),
+	url('font/Shabnam/Shabnam-Light.ttf') format('ttf');font-weight:200}
+@font-face{
+	font-family:'Shabnam';
+	src:url('font/Shabnam/Shabnam.eot');
+	src:url('font/Shabnam/Shabnam.eot?#iefix') format('eot'),
+	url('font/Shabnam/Shabnam.woff2') format('woff2'),
+	url('font/Shabnam/Shabnam.woff') format('woff'),
+	url('font/Shabnam/Shabnam.ttf') format('ttf');font-weight:300}
+@font-face{
+	font-family:'Shabnam';
+	src:url('font/Shabnam/Shabnam-Medium.eot');
+	src:url('font/Shabnam/Shabnam-Medium.eot?#iefix') format('eot'),
+	url('font/Shabnam/Shabnam-Medium.woff2') format('woff2'),
+	url('font/Shabnam/Shabnam-Medium.woff') format('woff'),
+	url('font/Shabnam/Shabnam-Medium.ttf') format('ttf');font-weight:400}
+@font-face{
+	font-family:'Shabnam';
+	src:url('font/Shabnam/Shabnam-Bold.eot');
+	src:url('font/Shabnam/Shabnam-Bold.eot?#iefix') format('eot'),
+	url('font/Shabnam/Shabnam-Bold.woff2') format('woff2'),
+	url('font/Shabnam/Shabnam-Bold.woff') format('woff'),
+	url('font/Shabnam/Shabnam-Bold.ttf') format('ttf');font-weight:500}
+
+@font-face{
+	font-family:'Shabnam-FN';
+	src:url('font/Shabnam-FN/Shabnam-Thin-FD.eot');
+	src:url('font/Shabnam-FN/Shabnam-Thin-FD.eot?#iefix') format('eot'),
+	url('font/Shabnam-FN/Shabnam-Thin-FD.woff2') format('woff2'),
+	url('font/Shabnam-FN/Shabnam-Thin-FD.woff') format('woff'),
+	url('font/Shabnam-FN/Shabnam-Thin-FD.ttf') format('ttf');font-weight:100}
+@font-face{
+	font-family:'Shabnam-FN';
+	src:url('font/Shabnam-FN/Shabnam-Light-FD.eot');
+	src:url('font/Shabnam-FN/Shabnam-Light-FD.eot?#iefix') format('eot'),
+	url('font/Shabnam-FN/Shabnam-Light-FD.woff2') format('woff2'),
+	url('font/Shabnam-FN/Shabnam-Light-FD.woff') format('woff'),
+	url('font/Shabnam-FN/Shabnam-Light-FD.ttf') format('ttf');font-weight:200}
+@font-face{
+	font-family:'Shabnam-FN';
+	src:url('font/Shabnam-FN/Shabnam-FD.eot');
+	src:url('font/Shabnam-FN/Shabnam-FD.eot?#iefix') format('eot'),
+	url('font/Shabnam-FN/Shabnam-FD.woff2') format('woff2'),
+	url('font/Shabnam-FN/Shabnam-FD.woff') format('woff'),
+	url('font/Shabnam-FN/Shabnam-FD.ttf') format('ttf');font-weight:300}
+@font-face{
+	font-family:'Shabnam-FN';
+	src:url('font/Shabnam-FN/Shabnam-Medium-FD.eot');
+	src:url('font/Shabnam-FN/Shabnam-Medium-FD.eot?#iefix') format('eot'),
+	url('font/Shabnam-FN/Shabnam-Medium-FD.woff2') format('woff2'),
+	url('font/Shabnam-FN/Shabnam-Medium-FD.woff') format('woff'),
+	url('font/Shabnam-FN/Shabnam-Medium-FD.ttf') format('ttf');font-weight:400}
+@font-face{
+	font-family:'Shabnam-FN';
+	src:url('font/Shabnam-FN/Shabnam-Bold-FD.eot');
+	src:url('font/Shabnam-FN/Shabnam-Bold-FD.eot?#iefix') format('eot'),
+	url('font/Shabnam-FN/Shabnam-Bold-FD.woff2') format('woff2'),
+	url('font/Shabnam-FN/Shabnam-Bold-FD.woff') format('woff'),
+	url('font/Shabnam-FN/Shabnam-Bold-FD.ttf') format('ttf');font-weight:500}
